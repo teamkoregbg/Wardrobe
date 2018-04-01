@@ -28,7 +28,6 @@ public class MainActivity extends AppCompatActivity {
             setStartFragment(new StartFragment());
         }
 
-        System.out.println("Hej på dig");
 
 
     }
