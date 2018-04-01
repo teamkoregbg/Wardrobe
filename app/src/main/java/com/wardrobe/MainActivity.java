@@ -27,9 +27,6 @@ public class MainActivity extends AppCompatActivity {
 
             setStartFragment(new StartFragment());
         }
-
-
-
     }
     public void setStartFragment(Fragment fragment)
     {
